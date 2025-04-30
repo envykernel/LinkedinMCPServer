@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "linkedin": {
+            "command": "dotnet",
+            "args": [
+                "run",
+                "--project",
+                "/Users/coding/Documents/MyDevSpace/MCP/MCPNet/LinkedinMCPServer/LinkedinMCPServer.csproj",
+                "--no-build"
+            ]
+        }
+    }
+} 
